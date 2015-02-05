@@ -1,7 +1,7 @@
 {
   "name": "atom-status-text",
   "main": "./lib/atom-status-text",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "A short description of your package",
   "activationCommands": {
     "atom-workspace": "atom-status-text:run"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
