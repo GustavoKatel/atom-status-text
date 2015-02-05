@@ -7,7 +7,7 @@ Adds custom text to the Atom's status-bar.
 * Read from file
 * Left/Right text
 
-![Screenshot](...)
+![Screenshot](https://raw.githubusercontent.com/GustavoKatel/atom-status-text/master/screenshot.png)
 
 ## License
 See LICENSE.md
