@@ -2,6 +2,9 @@
 
 Adds custom text to the Atom's status-bar.
 
+## HOW-TO
+Run the command: `Atom Status Text: Run` to start the package
+
 ## Features
 * Custom text
 * Read from file
