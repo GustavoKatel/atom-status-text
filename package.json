@@ -1,0 +1,16 @@
+{
+  "name": "atom-status-text",
+  "main": "./lib/atom-status-text",
+  "version": "0.1.1",
+  "description": "A short description of your package",
+  "activationCommands": {
+    "atom-workspace": "atom-status-text:run"
+  },
+  "repository": "https://github.com/GustavoKatel/atom-status-text",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
